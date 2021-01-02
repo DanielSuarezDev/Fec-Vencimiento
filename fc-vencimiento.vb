@@ -4,7 +4,7 @@ If Date < DateValue("14/03/2021") Then
 
 Else
 Application.DisplayAlerts = False
-MsgBox "Cumple de Dany"
+    MsgBox "Este archivo se daño"
 ThisWorkbook.Close
 End If
 
